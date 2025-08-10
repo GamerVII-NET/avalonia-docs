@@ -1,18 +1,18 @@
 ---
-description: CONCEPTS
+description: КОНЦЕПЦИИ
 ---
 
-# Data Templates
+# Шаблоны данных
 
-These pages describe the important concept of a **data template** in _Avalonia UI._
+Эти страницы описывают важную концепцию **шаблона данных** в _Avalonia UI_.
 
-A data template allows an _Avalonia UI_ control to display an object in its content zone which is not itself a control. This concept is explained using a practical code example.
+Шаблон данных позволяет элементу управления _Avalonia UI_ отображать объект в своей зоне содержимого, который сам по себе не является элементом управления. Эта концепция объясняется с использованием практического примера кода.
 
 :::info
-For some information about the concept of control layout zones in _Avalonia UI_, see [here](../layout/layout-zones).
+Для получения информации о концепции зон компоновки элементов управления в _Avalonia UI_, смотрите [здесь](../layout/layout-zones).
 :::
 
-## Example Code
+## Пример кода
 
-To follow the example code that follows, create a new _Avalonia UI project_ using the 'Avalonia Application' template in C#.
+Чтобы следовать приведённому ниже примеру кода, создайте новый _проект Avalonia UI_ с использованием шаблона 'Avalonia Application' на языке C#.
 
